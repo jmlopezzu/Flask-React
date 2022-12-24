@@ -1,2 +1,2 @@
-# Flask-React
+# Flask+React
 Python Flask + ReactJs
